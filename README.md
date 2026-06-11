@@ -124,14 +124,13 @@ explicit.wait=15
 
 ---
 
-## 👨‍💻 Author
-
-**Sachin Maurya**
-- 📧 officialsachin2k4@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/sachin-mourya)
-- 🐙 [GitHub](https://github.com/sachn2k4)
-
 ---
 
-## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
+## 👩‍💻 Author
+
+**Priya Gupta**
+- 📧 pg0776281@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/priya-gupta7/
+- 🐙 GitHub: https://github.com/priya-7D2
+
+---
